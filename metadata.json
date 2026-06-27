@@ -1,0 +1,8 @@
+{
+  "name": "Advanced Calculator",
+  "description": "Multi-mode calculator featuring Normal with Memory, Scientific with angle modes, and Advanced tools for equations, matrices, and base systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
